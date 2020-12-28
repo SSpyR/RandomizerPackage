@@ -1,0 +1,5 @@
+glob3
+appdirs
+PyMySQL
+subprocess
+configparser
