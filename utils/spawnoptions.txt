@@ -1065,7 +1065,6 @@
 /Game/PatchDLC/Raid1/Enemies/_Spawning/Ratch/SpawnOptions_RatchBasicRaid1
 /Game/PatchDLC/Raid1/Enemies/_Spawning/Ratch/SpawnOptions_RatchPupRaid1
 /Game/PatchDLC/Raid1/Enemies/_Spawning/Ratch/SpawnOptions_RatchSpitterRaid1
-/Game/PatchDLC/Takedown2/Enemies/GuardianBrute/_Shared/_Design/Props/SpawnOptions_GuardianTakedown_PathDestructibleColumn
 /Game/PatchDLC/Takedown2/Enemies/_Spawning/Bosses/Fodder/SpawnOptions_GuardianBruteBoss_FodderMix_Ground
 /Game/PatchDLC/Takedown2/Enemies/_Spawning/Bosses/Fodder/SpawnOptions_GuardianMiniboss_FodderMix
 /Game/PatchDLC/Takedown2/Enemies/_Spawning/Bosses/NekrobugsBossFriendly/SpawnOptions_Nekrobug_BossFriendGroundMixTD2
