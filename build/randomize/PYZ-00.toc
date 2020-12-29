@@ -908,13 +908,13 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
-   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('randomizewindow',
    'C:\\Users\\Angel '
@@ -951,6 +951,10 @@
   ('bl3data',
    'C:\\Users\\Angel '
    'LaVoie\\Downloads\\BL3\\StandaloneHotfixInjection\\RandomizerPackage\\bl3data.py',
+   'PYMODULE'),
+  ('appdirs',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\appdirs.py',
    'PYMODULE'),
   ('json',
    'c:\\users\\angel '

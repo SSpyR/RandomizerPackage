@@ -26,11 +26,11 @@ import re
 import json
 import glob
 import appdirs
-import pymysql
-pymysql.install_as_MySQLdb()
-import MySQLdb
+#import pymysql
+#pymysql.install_as_MySQLdb()
+#import MySQLdb
 import subprocess
-import configparser
+#import configparser
 
 from bl3hotfixmod import BVC
 
