@@ -1,32 +1,56 @@
 ('C:\\Users\\Angel '
  'LaVoie\\Downloads\\BL3\\StandaloneHotfixInjection\\RandomizerPackage\\build\\randomize\\PYZ-00.pyz',
- [('os',
+ [('pywintypes',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
    'PYMODULE'),
-  ('subprocess',
+  ('distutils.sysconfig',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
    'PYMODULE'),
-  ('selectors',
+  ('distutils',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
    'PYMODULE'),
-  ('contextlib',
+  ('distutils.ccompiler',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
    'PYMODULE'),
-  ('threading',
+  ('distutils.fancy_getopt',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
    'PYMODULE'),
-  ('_threading_local',
+  ('getopt',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
    'PYMODULE'),
-  ('signal',
+  ('gettext',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
    'PYMODULE'),
   ('_strptime',
    'c:\\users\\angel '
@@ -47,90 +71,6 @@
   ('textwrap',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('shutil',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
-   'PYMODULE'),
-  ('zipfile',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
-   'PYMODULE'),
-  ('py_compile',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
-   'PYMODULE'),
-  ('importlib.machinery',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('importlib',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
-   'PYMODULE'),
-  ('importlib._bootstrap',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
-   'PYMODULE'),
-  ('importlib._bootstrap_external',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
-   'PYMODULE'),
-  ('importlib.metadata',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
-   'PYMODULE'),
-  ('importlib.abc',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
-   'PYMODULE'),
-  ('typing',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
-   'PYMODULE'),
-  ('configparser',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
-   'PYMODULE'),
-  ('pathlib',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
-   'PYMODULE'),
-  ('email',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
-   'PYMODULE'),
-  ('email.parser',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
-   'PYMODULE'),
-  ('email._policybase',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
-   'PYMODULE'),
-  ('email.utils',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
-   'PYMODULE'),
-  ('email._parseaddr',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
-   'PYMODULE'),
-  ('socket',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
-   'PYMODULE'),
-  ('random',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
    'PYMODULE'),
   ('statistics',
    'c:\\users\\angel '
@@ -196,6 +136,30 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
    'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
   ('asyncio.windows_events',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
@@ -203,10 +167,6 @@
   ('asyncio.windows_utils',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
-  ('tempfile',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
    'PYMODULE'),
   ('asyncio.selector_events',
    'c:\\users\\angel '
@@ -219,10 +179,6 @@
   ('base64',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
-   'PYMODULE'),
-  ('getopt',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
    'PYMODULE'),
   ('asyncio.proactor_events',
    'c:\\users\\angel '
@@ -307,6 +263,186 @@
   ('zipimport',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
    'PYMODULE'),
   ('multiprocessing.process',
    'c:\\users\\angel '
@@ -404,10 +540,6 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
    'PYMODULE'),
-  ('_compression',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
-   'PYMODULE'),
   ('xml.parsers.expat',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
@@ -491,50 +623,6 @@
   ('http.client',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
-   'PYMODULE'),
-  ('email.message',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
-   'PYMODULE'),
-  ('email.policy',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
-   'PYMODULE'),
-  ('email.contentmanager',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
-   'PYMODULE'),
-  ('email.quoprimime',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
-   'PYMODULE'),
-  ('email.headerregistry',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
-   'PYMODULE'),
-  ('email.iterators',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
-   'PYMODULE'),
-  ('email.generator',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
-   'PYMODULE'),
-  ('email._encoded_words',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
-   'PYMODULE'),
-  ('quopri',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
-   'PYMODULE'),
-  ('uu',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
-   'PYMODULE'),
-  ('optparse',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
    'PYMODULE'),
   ('multiprocessing',
    'c:\\users\\angel '
@@ -692,66 +780,6 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
    'PYMODULE'),
-  ('_osx_support',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
-   'PYMODULE'),
-  ('distutils.log',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
-   'PYMODULE'),
-  ('distutils',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
-   'PYMODULE'),
-  ('distutils.ccompiler',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
-   'PYMODULE'),
-  ('distutils.fancy_getopt',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
-   'PYMODULE'),
-  ('distutils.debug',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
-   'PYMODULE'),
-  ('distutils.util',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
-   'PYMODULE'),
-  ('distutils.filelist',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
-   'PYMODULE'),
-  ('distutils.dep_util',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
-   'PYMODULE'),
-  ('distutils.dir_util',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
-   'PYMODULE'),
-  ('distutils.file_util',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
-   'PYMODULE'),
-  ('distutils.spawn',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
-   'PYMODULE'),
-  ('distutils.errors',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
-   'PYMODULE'),
-  ('distutils.sysconfig',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
-   'PYMODULE'),
-  ('distutils.text_file',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
-   'PYMODULE'),
   ('platform',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
@@ -792,10 +820,6 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
    'PYMODULE'),
-  ('token',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
-   'PYMODULE'),
   ('ast',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
@@ -812,97 +836,77 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
-  ('string',
+  ('threading',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
    'PYMODULE'),
   ('bisect',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
    'PYMODULE'),
-  ('email.feedparser',
+  ('shutil',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
-   'PYMODULE'),
-  ('email._header_value_parser',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
-   'PYMODULE'),
-  ('email.header',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
-   'PYMODULE'),
-  ('email.base64mime',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
-   'PYMODULE'),
-  ('email.charset',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
-   'PYMODULE'),
-  ('email.encoders',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
-   'PYMODULE'),
-  ('email.errors',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
-   'PYMODULE'),
-  ('csv',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
-   'PYMODULE'),
-  ('tokenize',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('struct',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
-   'PYMODULE'),
-  ('importlib.util',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
    'PYMODULE'),
   ('tarfile',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
    'PYMODULE'),
-  ('lzma',
+  ('distutils.util',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
    'PYMODULE'),
-  ('bz2',
+  ('distutils.filelist',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
    'PYMODULE'),
-  ('fnmatch',
+  ('distutils.dep_util',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
    'PYMODULE'),
-  ('copy',
+  ('distutils.dir_util',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
    'PYMODULE'),
-  ('gettext',
+  ('distutils.file_util',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
    'PYMODULE'),
-  ('ntpath',
+  ('distutils.spawn',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
    'PYMODULE'),
-  ('genericpath',
+  ('distutils.log',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
    'PYMODULE'),
-  ('posixpath',
+  ('distutils.text_file',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
    'PYMODULE'),
-  ('stat',
+  ('_osx_support',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
    'PYMODULE'),
   ('stringprep',
    'c:\\users\\angel '

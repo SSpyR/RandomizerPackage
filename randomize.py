@@ -26,6 +26,7 @@ except ImportError:
     py3 = True
 
 def init(top, gui, *args, **kwargs):
+    print('Starting Program...')
     global w, top_level, root
     w = gui
     top_level = top
