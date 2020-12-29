@@ -904,6 +904,10 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
    'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\angel '
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
@@ -911,10 +915,6 @@
   ('_py_abc',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('randomizewindow',
    'C:\\Users\\Angel '

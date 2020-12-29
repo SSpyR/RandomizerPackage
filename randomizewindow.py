@@ -50,7 +50,7 @@ def destroy_Toplevel1():
 
 class Toplevel1:
     def onClick(self):
-        tk.messagebox.showinfo("Success!", "Skills and Spawns Randomized!")
+        tk.messagebox.showinfo("Success!", "File Randomized!")
     def __init__(self, top=None):
         '''This class configures and populates the toplevel window.
            top is the toplevel containing window.'''
@@ -68,17 +68,30 @@ class Toplevel1:
         top.configure(background="#d9d9d9")
 
         self.Button1 = tk.Button(top)
-        self.Button1.place(relx=0.30, rely=0.35, height=64, width=127)
+        self.Button1.place(relx=0.30, rely=0.20, height=64, width=127)
         self.Button1.configure(activebackground="#ececec")
         self.Button1.configure(activeforeground="#000000")
         self.Button1.configure(background="#d9d9d9")
-        self.Button1.configure(command=lambda:[randomize.Randomize(), self.onClick()])
+        self.Button1.configure(command=lambda:[randomize.RandomizeEnemy(), self.onClick()])
         self.Button1.configure(disabledforeground="#a3a3a3")
         self.Button1.configure(foreground="#000000")
         self.Button1.configure(highlightbackground="#d9d9d9")
         self.Button1.configure(highlightcolor="black")
         self.Button1.configure(pady="0")
-        self.Button1.configure(text='''Randomize''')
+        self.Button1.configure(text='''Randomize Enemies''')
+
+        self.Button2 = tk.Button(top)
+        self.Button2.place(relx=0.30, rely=0.50, height=64, width=127)
+        self.Button2.configure(activebackground="#ececec")
+        self.Button2.configure(activeforeground="#000000")
+        self.Button2.configure(background="#d9d9d9")
+        self.Button2.configure(command=lambda:[randomize.RandomizeSkill(), self.onClick()])
+        self.Button2.configure(disabledforeground="#a3a3a3")
+        self.Button2.configure(foreground="#000000")
+        self.Button2.configure(highlightbackground="#d9d9d9")
+        self.Button2.configure(highlightcolor="black")
+        self.Button2.configure(pady="0")
+        self.Button2.configure(text='''Randomize Skills''')
 
 if __name__ == '__main__':
     vp_start_gui()

@@ -31,9 +31,13 @@ def init(top, gui, *args, **kwargs):
     top_level = top
     root = top
 
-def Randomize():
+def RandomizeEnemy():
     print('Randomize!')
     gen_spawn_randomizer.SpawnRandom()
+    sys.stdout.flush()
+
+def RandomizeSkill():
+    print('Randomize!')
     gen_skill_randomizer.SkillRandom()
     sys.stdout.flush()
 
