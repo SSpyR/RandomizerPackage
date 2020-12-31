@@ -393,7 +393,6 @@
 /Game/Enemies/Ratch/_Shared/_Design/Egg/Character/BPChar_RatchEgg_Pup
 /Game/Enemies/Ratch/Spitter/_Design/Character/BPChar_RatchSpitter
 /Game/Enemies/Ratch/Swarm/_Design/Character/BPChar_RatchSwarm
-/Game/Enemies/Ratch/_Unique/BadRat/_Design/Character/BPChar_RatchBadRat
 /Game/Enemies/Ratch/_Unique/EridiumBasic/_Design/Character/BPChar_RatchEridiumBasic
 /Game/Enemies/Ratch/_Unique/Gnat/_Design/Character/BPChar_RatchGnat
 /Game/Enemies/Ratch/_Unique/HiveAnchor/_Design/Character/BPChar_RatchHiveAnchor
@@ -621,7 +620,6 @@
 /Game/PatchDLC/Takedown2/Enemies/GuardianBrute/Bomber/_Design/Character/BPChar_GuardianBruteBomber_BossFodder
 /Game/PatchDLC/Takedown2/Enemies/GuardianBrute/Boss/_Design/Character/BPChar_GuardianBruteBoss
 /Game/PatchDLC/Takedown2/Enemies/GuardianBrute/Miniboss/_Design/Character/BPChar_GuardianBruteMiniboss
-/Game/PatchDLC/Takedown2/Enemies/GuardianBrute/Miniboss/_Design/Character/BPChar_GuardianBruteMinibossClone
 /Game/PatchDLC/Takedown2/Enemies/Guardians/Herald/_Design/Character/BPChar_GuardianHeraldTD2
 /Game/PatchDLC/Takedown2/Enemies/Guardians/Herald/_Design/Character/BPChar_GuardianHeraldTD2_LOWXP
 /Game/PatchDLC/Takedown2/Enemies/Guardians/Reaper/_Design/Character/BPChar_GuardianReaperTD2
@@ -663,7 +661,6 @@
 /Geranium/Enemies/GerEnforcer/Digi/_Design/Character/BPChar_GerEnforcerDigi
 /Geranium/Enemies/GerEnforcer/Gun/_Design/Character/BPChar_GerEnforcerGun
 /Geranium/Enemies/GerEnforcer/Melee/_Design/Character/BPChar_GerEnforcerMelee
-/Geranium/Enemies/GerEnforcer/Rider/_Design/Character/BPChar_GerEnforcerRider
 /Geranium/Enemies/GerEnforcer/_Unique/Dispatcher/_Design/Character/BPChar_GerEnforcerDispatcher
 /Geranium/Enemies/GerEnforcer/_Unique/LBN_Doctor/_Design/Character/BPChar_GerEnforcerLBN_Doctor
 /Geranium/Enemies/GerEnforcer/_Unique/LBN_Doctor/_Design/Character/BPChar_GerEnforcerLBN_Doctor_NoShield
@@ -680,7 +677,6 @@
 /Geranium/Enemies/GerPunk_Female/Badass/_Design/Character/BPChar_GerPunkBadass
 /Geranium/Enemies/GerPunk_Female/Badass/_Design/Character/BPChar_GerPunkBadassArmored
 /Geranium/Enemies/GerPunk_Female/Basic/_Design/Character/BPChar_GerPunkBasic
-/Geranium/Enemies/GerPunk_Female/Rider/_Design/Character/BPChar_GerPunkRider
 /Geranium/Enemies/GerPunk_Female/Shotgunner/_Design/Character/BPChar_GerPunkShotgunner
 /Geranium/Enemies/GerPunk_Female/Sniper/_Design/Character/BPChar_GerPunkSniper
 /Geranium/Enemies/GerPunk_Female/_Unique/Greg/_Design/Character/BPChar_GerPunkGreg
@@ -726,13 +722,9 @@
 /Geranium/Enemies/GerSaurian/_Unique/Dispatcher/_Design/Character/BPChar_GerSaurianDispatcher
 /Geranium/Enemies/GerSaurian/_Unique/Grogzilla/_Design/Character/BPChar_GerSaurianGrogzilla
 /Geranium/Enemies/GerSaurian/_Unique/Horsemen1/_Design/Character/BPChar_GerSaurianHorsemen1
-/Geranium/Enemies/GerSaurian/_Unique/Horsemen1/_Design/Rider/BPChar_GerTinkHorsemen1
 /Geranium/Enemies/GerSaurian/_Unique/Horsemen2/_Design/Character/BPChar_GerSaurianHorsemen2
-/Geranium/Enemies/GerSaurian/_Unique/Horsemen2/_Design/Rider/BPChar_GerEnforcerHorsemen2
 /Geranium/Enemies/GerSaurian/_Unique/Horsemen3/_Design/Character/BPChar_GerSaurianHorsemen3
-/Geranium/Enemies/GerSaurian/_Unique/Horsemen3/_Design/Rider/BPChar_GerPunkHorsemen3
 /Geranium/Enemies/GerSaurian/_Unique/Horsemen4/_Design/Character/BPChar_GerSaurianHorsemen4
-/Geranium/Enemies/GerSaurian/_Unique/Horsemen4/_Design/Rider/BPChar_GerPunkHorsemen4
 /Geranium/Enemies/GerSaurian/_Unique/LBN_GunGrog/_Design/Character/BPChar_GerSaurianLBN_GunGrog
 /Geranium/Enemies/GerSaurian/_Unique/LBN_GunPred/_Design/Character/BPChar_GerSaurianLBN_GunPred
 /Geranium/Enemies/GerSaurian/_Unique/Saurtaur/_Design/Character/BPChar_GerSaurianSaurtaur
@@ -746,7 +738,6 @@
 /Geranium/Enemies/GerTink/Basic/_Design/Character/BPChar_GerTinkBasic
 /Geranium/Enemies/GerTink/Loot/_Design/Character/BPChar_GerTinkLoot
 /Geranium/Enemies/GerTink/Psycho/_Design/Character/BPChar_GerTinkPsycho
-/Geranium/Enemies/GerTink/Rider/_Design/Character/BPChar_GerTinkRider
 /Geranium/Enemies/GerTink/Shotgun/_Design/Character/BPChar_GerTinkShotgun
 /Geranium/Enemies/GerTink/Suicide/_Design/Character/BPChar_GerTinkSuicide
 /Geranium/Enemies/GerTink/_Unique/Prohibitor/_Design/Character/BPChar_GerTinkProhibitor
@@ -851,7 +842,6 @@
 /Hibiscus/Enemies/Zealot/Clone/_Design/Character/BPChar_ZealotExplosiveTrailClone
 /Hibiscus/Enemies/Zealot/Ghost/_Design/Character/BPChar_Zealot_Ghost
 /Hibiscus/Enemies/Zealot/Ghost/_Design/Character/BPChar_Zealot_Ghost_Invisible
-/Hibiscus/Enemies/Zealot/Nightmare/_Design/Character/BPChar_ZealotNightmare
 /Hibiscus/Enemies/Zealot/Pilfer/_Design/Character/BPChar_ZealotPilfer
 /Hibiscus/Enemies/Zealot/PilferEye/_Design/Character/BPChar_PilferEyeBasic
 /Hibiscus/Enemies/Zealot/Revived/_Design/BPChar_ZealotRevived

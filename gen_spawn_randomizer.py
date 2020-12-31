@@ -3,8 +3,9 @@ from bl3data import BL3Data
 import os, random
 
 # Utils: spawnoptions.txt and bpchars.txt
-# Maybe make spawn points higher to prevent falling throug the earth
 # Some enemy spawns may not be under and /Enemies directory (see Dandelion's CrewChallenges/Kill/ directory)
+# Some enemies can't be killed (Mime Bots, Event Enemies, Riders from DLC3), look into this (removing or making them killable) (took some out entirely for right now)
+# Looking into SpawnerStyles (very experimental), would involve randomizing where the SpawnOptions are used too (like on what maps)
 
 def SpawnRandom():
     mod=Mod('spawn_randomizer.bl3hotfix',

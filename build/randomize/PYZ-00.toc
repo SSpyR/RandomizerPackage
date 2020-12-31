@@ -908,17 +908,17 @@
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
    'PYMODULE'),
-  ('stringprep',
+  ('_py_abc',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
    'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\angel '
    'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('stringprep',
    'c:\\users\\angel '
-   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'lavoie\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('randomizewindow',
    'C:\\Users\\Angel '
